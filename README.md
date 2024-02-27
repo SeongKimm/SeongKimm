@@ -9,12 +9,15 @@ Data Analyst with expertise in data analysis and reporting, query optimization, 
 
 
 📚 Projects
+
 Welcome to my portfolio, where I showcase my projects.
 
 🛠️ Tools
+
 Language: SQL, Python, R 
 Database: Google BigQuery, MySQL
 Visualization: Tableau, Looker Studio, Power BI 
 
 👋🏻 Connect with Me
+
 Linkedin
