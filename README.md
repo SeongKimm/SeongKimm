@@ -1,6 +1,4 @@
-Hello, I'm Seong Kim. 
-
-Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modeling.
+Hello, I'm Seong Kim, Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modeling.
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
